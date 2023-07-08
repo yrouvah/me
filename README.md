@@ -1,13 +1,7 @@
- *👋 Hello developper 👋*
+ *👋 Hello👋*
 ===========================
-
 # Rova Mampionona #
-       
- ## Junior developper web from Madagascar ##  
-       
-*NB: 🔭 I’m currently working on my Master project  CNTEMAD 🔭*
-
-## Skills ##
+## My Skills ##
 **🌱 I can help you with 📄:**  
 >> - Front end => HTML/CSS, Bootstrap, MaterialUI, ReactJs  
 >> - Back end => NodeJs/Express, Php Laravel/Symfony  
