@@ -4,7 +4,7 @@
 ===========================
 --------------------------------------------------------------
 
-       ***Junior developper web*** from Madagascar  
+       **Junior developper web from Madagascar**  
 ***🔭 I’m currently working on my Master project  CNTEMAD 🔭*** 
 
 --------------------------------------------------------------
