@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Junior developper web
+Front end => HTML/CSS, Bootstrap, MaterialUI, ReactJs
+Back end => NodeJs/Express, Php Laravel/Symfony
+BD => SQL and NoSQL
+
+yrouvah@gmail.com
+
+Let start on another challenge...
