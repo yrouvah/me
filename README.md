@@ -3,10 +3,8 @@
 #  😄 Rova Mampionona 😄
 ===========================
 --------------------------------------------------------------
-
        **Junior developper web from Madagascar**  
-***🔭 I’m currently working on my Master project  CNTEMAD 🔭*** 
-
+NB: *🔭 I’m currently working on my Master project  CNTEMAD 🔭*
 --------------------------------------------------------------
 
 ## Skills ##
@@ -24,7 +22,7 @@
   https://www.linkedin.com/in/radimiarisoa-rova-mampionona-marie-hubert-1b0531213/ \
   
 **Facebook:** \
- [ Rova Mampionona <br> (https://m.facebook.com/profile.php?id=100077519714450&sk=about) 
+ [ Rova Mampionona (https://m.facebook.com/profile.php?id=100077519714450&sk=about) ]
 
 ***⚡Let start on another challenge...⚡***
 
