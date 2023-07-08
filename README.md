@@ -1,6 +1,7 @@
- *👋 Hello developper 👋* 
-#  😄 Rova Mampionona 😄
-===========================  
+ *👋 Hello developper 👋*
+===========================
+
+***Rova Mampionona***
        
  ## Junior developper web from Madagascar ##  
        
