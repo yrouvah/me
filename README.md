@@ -1,8 +1,7 @@
  *👋 Hello👋*
 ===========================
 # Rova Mampionona #
-## My Skills ##
-**🌱 I can help you with 📄:**  
+**Yes, I can📄:**  
 >> - Front end => HTML/CSS, Bootstrap, MaterialUI, ReactJs  
 >> - Back end => NodeJs/Express, Php Laravel/Symfony  
 >> - BD => SQL , NoSQL  
@@ -20,4 +19,3 @@
 
 ***⚡Let start on another challenge...⚡***
 
-### 📄 Coding is endless, just upgrade your skill 📄 ###
