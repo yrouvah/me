@@ -2,9 +2,12 @@
   *👋 Hello developper 👋* 
 #  😄 Rova Mampionona 😄
 ===========================
+--------------------------------------------------------------
 
-***Junior developper web*** from Madagascar  
+       ***Junior developper web*** from Madagascar  
 ***🔭 I’m currently working on my Master project  CNTEMAD 🔭*** 
+
+--------------------------------------------------------------
 
 ## Skills ##
 **🌱 I can help you with 📄:**  
@@ -16,9 +19,11 @@
 
 **Gmail:** \
  yrouvah@gmail.com <br>  
-**Linked in:** \
+ 
+**LinkedIn:** \
   https://www.linkedin.com/in/radimiarisoa-rova-mampionona-marie-hubert-1b0531213/ \
-**Facebook: ** \
+  
+**Facebook:** \
  [ Rova Mampionona <br> (https://m.facebook.com/profile.php?id=100077519714450&sk=about) 
 
 ***⚡Let start on another challenge...⚡***
