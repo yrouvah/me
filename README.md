@@ -2,9 +2,10 @@
   *👋 Hello developper 👋* 
 #  😄 Rova Mampionona 😄
 ===========================  
-       ##Junior developper web from Madagascar##  
---------------------------------------------------------------  
-NB: *🔭 I’m currently working on my Master project  CNTEMAD 🔭*
+       
+ ## Junior developper web from Madagascar ##  
+       
+*NB: 🔭 I’m currently working on my Master project  CNTEMAD 🔭*
 
 ## Skills ##
 **🌱 I can help you with 📄:**  
