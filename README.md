@@ -9,9 +9,9 @@
 - BD => SQL , NoSQL
 
 ## Contact me:
-**Gmail** - yrouvah@gmail.com .
-**Linked in** - radimiarisoa-rova-mampionona-marie-hubert-1b0531213 .
-**Facebook** - Rova Mampionona .
+**Gmail** - yrouvah@gmail.com ''
+**Linked in** - radimiarisoa-rova-mampionona-marie-hubert-1b0531213 ''
+**Facebook** - Rova Mampionona ''
 
 ***Let start on another challenge...***
 
