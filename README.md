@@ -10,11 +10,11 @@
 
 ## Contact me:
 **Gmail**
-- yrouvah@gmail.com 
+ yrouvah@gmail.com 
 **Linked in**
-   - radimiarisoa-rova-mampionona-marie-hubert-1b0531213 
+ radimiarisoa-rova-mampionona-marie-hubert-1b0531213 
 **Facebook**
- - Rova Mampionona 
+ Rova Mampionona 
 
 ***Let start on another challenge...***
 
