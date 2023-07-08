@@ -8,9 +8,9 @@
 
 
 **🌱 I can help you with 📄:**  
->> - Front end => HTML/CSS, Bootstrap, MaterialUI, ReactJs   
->> - Back end => NodeJs/Express, Php Laravel/Symfony  
->> - BD => SQL , NoSQL  
+>> - Front end => HTML/CSS, Bootstrap, MaterialUI, ReactJs  >>  
+>> - Back end => NodeJs/Express, Php Laravel/Symfony  >> 
+>> - BD => SQL , NoSQL  >> 
 
 ## Contact me
 **Gmail:**
